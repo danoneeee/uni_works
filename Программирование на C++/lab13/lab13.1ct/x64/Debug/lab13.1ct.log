@@ -1,0 +1,12 @@
+﻿  human.cpp
+  lab13.1ct.cpp
+C:\Users\krylo\source\repos\lab13\lab13.1ct\student.h(16,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "lab13.1ct.cpp")
+  
+  student.cpp
+C:\Users\krylo\source\repos\lab13\lab13.1ct\student.h(16,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "student.cpp")
+  
+  teacher.cpp
+  Создание кода...
+  lab13.1ct.vcxproj -> C:\Users\krylo\source\repos\lab13\x64\Debug\lab13.1ct.exe

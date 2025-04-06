@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krylo\\source\\repos\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9151E69D-9E07-4B0A-84FF-096EE24B4894}|3.5\\3.5.vcxproj|C:\\Users\\krylo\\source\\repos\\lab3\\3.5\\3.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9151E69D-9E07-4B0A-84FF-096EE24B4894}|3.5\\3.5.vcxproj|solutionrelative:3.5\\3.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E577C3-3891-40AE-955F-806C67D762A2}|lab3.4\\lab3.4.vcxproj|C:\\Users\\krylo\\source\\repos\\lab3\\lab3.4\\lab3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88E577C3-3891-40AE-955F-806C67D762A2}|lab3.4\\lab3.4.vcxproj|solutionrelative:lab3.4\\lab3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7932D2E4-DA53-4910-A77B-4B3B041F7253}|lab3.3\\lab3.3.vcxproj|C:\\Users\\krylo\\source\\repos\\lab3\\lab3.3\\lab3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7932D2E4-DA53-4910-A77B-4B3B041F7253}|lab3.3\\lab3.3.vcxproj|solutionrelative:lab3.3\\lab3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14586103-B81B-46B7-977D-0AD7B327AB4D}|lab3.2\\lab3.2.vcxproj|C:\\Users\\krylo\\source\\repos\\lab3\\lab3.2\\lab3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14586103-B81B-46B7-977D-0AD7B327AB4D}|lab3.2\\lab3.2.vcxproj|solutionrelative:lab3.2\\lab3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F16126-8C71-4D19-873C-4176E5BE1099}|lab3.1\\lab3.1.vcxproj|C:\\Users\\krylo\\source\\repos\\lab3\\lab3.1\\lab3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8F16126-8C71-4D19-873C-4176E5BE1099}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\lab3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.5.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab3\\3.5\\3.5.cpp",
+              "RelativeDocumentMoniker": "3.5\\3.5.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab3\\3.5\\3.5.cpp*",
+              "RelativeToolTip": "3.5\\3.5.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T08:05:12.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab3.4.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.4\\lab3.4.cpp",
+              "RelativeDocumentMoniker": "lab3.4\\lab3.4.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.4\\lab3.4.cpp",
+              "RelativeToolTip": "lab3.4\\lab3.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T21:46:07.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab3.3.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.3\\lab3.3.cpp",
+              "RelativeDocumentMoniker": "lab3.3\\lab3.3.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.3\\lab3.3.cpp",
+              "RelativeToolTip": "lab3.3\\lab3.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T21:45:43.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab3.2.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.2\\lab3.2.cpp",
+              "RelativeDocumentMoniker": "lab3.2\\lab3.2.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.2\\lab3.2.cpp",
+              "RelativeToolTip": "lab3.2\\lab3.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T21:45:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab3.1.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.1\\lab3.1.cpp",
+              "RelativeDocumentMoniker": "lab3.1\\lab3.1.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab3\\lab3.1\\lab3.1.cpp",
+              "RelativeToolTip": "lab3.1\\lab3.1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T21:42:28.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

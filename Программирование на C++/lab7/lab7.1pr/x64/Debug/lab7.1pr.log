@@ -1,0 +1,5 @@
+﻿  lab7.1pr.cpp
+C:\Users\krylo\source\repos\lab7\lab7.1pr\lab7.1pr.cpp(21,21): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\krylo\source\repos\lab7\lab7.1pr\lab7.1pr.cpp(46,24): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\krylo\source\repos\lab7\lab7.1pr\lab7.1pr.cpp(46,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab7.1pr.vcxproj -> C:\Users\krylo\source\repos\lab7\x64\Debug\lab7.1pr.exe

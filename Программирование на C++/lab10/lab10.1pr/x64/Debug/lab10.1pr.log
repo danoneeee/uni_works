@@ -1,0 +1,6 @@
+﻿  IdCard.cpp
+  lab10.1pr.cpp
+C:\Users\krylo\source\repos\lab10\lab10.1pr\lab10.1pr.cpp(37,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Student.cpp
+  Создание кода...
+  lab10.1pr.vcxproj -> C:\Users\krylo\source\repos\lab10\x64\Debug\lab10.1pr.exe

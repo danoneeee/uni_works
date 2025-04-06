@@ -1,0 +1,4 @@
+﻿  lab5.1ct.cpp
+C:\Users\krylo\source\repos\lab5\lab5.1ct\lab5.1ct.cpp(41,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\krylo\source\repos\lab5\lab5.1ct\lab5.1ct.cpp(130,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab5.1ct.vcxproj -> C:\Users\krylo\source\repos\lab5\x64\Debug\lab5.1ct.exe

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krylo\\source\\repos\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80901BCA-C36A-46AE-8C43-E40E79664360}|lab11.2ct\\lab11.2ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab11\\lab11.2ct\\lab11.2ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80901BCA-C36A-46AE-8C43-E40E79664360}|lab11.2ct\\lab11.2ct.vcxproj|solutionrelative:lab11.2ct\\lab11.2ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B56C6-5344-480A-B1DD-879EEB2893B5}|lab11.1ct\\lab11.1ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab11\\lab11.1ct\\lab11.1ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{957B56C6-5344-480A-B1DD-879EEB2893B5}|lab11.1ct\\lab11.1ct.vcxproj|solutionrelative:lab11.1ct\\lab11.1ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010F67F5-61BF-499C-9EB2-197E75ED57E7}|lab11.3pr\\lab11.3pr.vcxproj|C:\\Users\\krylo\\source\\repos\\lab11\\lab11.3pr\\lab11.3pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{010F67F5-61BF-499C-9EB2-197E75ED57E7}|lab11.3pr\\lab11.3pr.vcxproj|solutionrelative:lab11.3pr\\lab11.3pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946E5A31-2BE5-4BBF-A27F-FFC69DB42A57}|lab11.4pr\\lab11.4pr.vcxproj|C:\\Users\\krylo\\source\\repos\\lab11\\lab11.4pr\\lab11.4pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{946E5A31-2BE5-4BBF-A27F-FFC69DB42A57}|lab11.4pr\\lab11.4pr.vcxproj|solutionrelative:lab11.4pr\\lab11.4pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6191500-2C1F-4674-AA13-BDD3117C1F4E}|lab11.2pr\\lab11.2pr.vcxproj|C:\\Users\\krylo\\source\\repos\\lab11\\lab11.2pr\\lab11.2pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6191500-2C1F-4674-AA13-BDD3117C1F4E}|lab11.2pr\\lab11.2pr.vcxproj|solutionrelative:lab11.2pr\\lab11.2pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8617035-F562-4424-BF5C-E366CCF21ACF}|lab11.1pr\\lab11.1pr.vcxproj|C:\\Users\\krylo\\source\\repos\\lab11\\lab11.1pr\\lab11.1pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8617035-F562-4424-BF5C-E366CCF21ACF}|lab11.1pr\\lab11.1pr.vcxproj|solutionrelative:lab11.1pr\\lab11.1pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab11.2ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.2ct\\lab11.2ct.cpp",
+              "RelativeDocumentMoniker": "lab11.2ct\\lab11.2ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.2ct\\lab11.2ct.cpp",
+              "RelativeToolTip": "lab11.2ct\\lab11.2ct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:26:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab11.1ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.1ct\\lab11.1ct.cpp",
+              "RelativeDocumentMoniker": "lab11.1ct\\lab11.1ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.1ct\\lab11.1ct.cpp",
+              "RelativeToolTip": "lab11.1ct\\lab11.1ct.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:26:10.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab11.3pr.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.3pr\\lab11.3pr.cpp",
+              "RelativeDocumentMoniker": "lab11.3pr\\lab11.3pr.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.3pr\\lab11.3pr.cpp",
+              "RelativeToolTip": "lab11.3pr\\lab11.3pr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:25:39.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab11.4pr.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.4pr\\lab11.4pr.cpp",
+              "RelativeDocumentMoniker": "lab11.4pr\\lab11.4pr.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.4pr\\lab11.4pr.cpp",
+              "RelativeToolTip": "lab11.4pr\\lab11.4pr.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:25:21.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab11.2pr.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.2pr\\lab11.2pr.cpp",
+              "RelativeDocumentMoniker": "lab11.2pr\\lab11.2pr.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.2pr\\lab11.2pr.cpp",
+              "RelativeToolTip": "lab11.2pr\\lab11.2pr.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:25:01.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab11.1pr.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.1pr\\lab11.1pr.cpp",
+              "RelativeDocumentMoniker": "lab11.1pr\\lab11.1pr.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab11\\lab11.1pr\\lab11.1pr.cpp",
+              "RelativeToolTip": "lab11.1pr\\lab11.1pr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:24:21.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

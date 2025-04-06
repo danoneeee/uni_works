@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krylo\\source\\repos\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\aggregation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\aggregation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\composition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\composition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\lab10ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\lab10ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\composition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\composition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\Dot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\Dot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\aggregation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\aggregation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\Dot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128352EA-5C60-410A-9E67-D876CAE4ABD0}|lab10ct\\lab10ct.vcxproj|solutionrelative:lab10ct\\Dot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dot.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\Dot.cpp",
+              "RelativeDocumentMoniker": "lab10ct\\Dot.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\Dot.cpp",
+              "RelativeToolTip": "lab10ct\\Dot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T07:26:45.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dot.h",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\Dot.h",
+              "RelativeDocumentMoniker": "lab10ct\\Dot.h",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\Dot.h",
+              "RelativeToolTip": "lab10ct\\Dot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T07:26:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "aggregation.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\aggregation.cpp",
+              "RelativeDocumentMoniker": "lab10ct\\aggregation.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\aggregation.cpp",
+              "RelativeToolTip": "lab10ct\\aggregation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T07:26:08.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aggregation.h",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\aggregation.h",
+              "RelativeDocumentMoniker": "lab10ct\\aggregation.h",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\aggregation.h",
+              "RelativeToolTip": "lab10ct\\aggregation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T07:25:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "composition.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\composition.cpp",
+              "RelativeDocumentMoniker": "lab10ct\\composition.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\composition.cpp",
+              "RelativeToolTip": "lab10ct\\composition.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T07:25:20.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "composition.h",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\composition.h",
+              "RelativeDocumentMoniker": "lab10ct\\composition.h",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\composition.h",
+              "RelativeToolTip": "lab10ct\\composition.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T07:24:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab10ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\lab10ct.cpp",
+              "RelativeDocumentMoniker": "lab10ct\\lab10ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab10\\lab10ct\\lab10ct.cpp",
+              "RelativeToolTip": "lab10ct\\lab10ct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T07:24:08.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

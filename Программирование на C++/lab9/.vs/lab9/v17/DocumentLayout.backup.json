@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krylo\\source\\repos\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B1D9AD-D30A-4ECB-9E8A-F68FF9555FE4}|lab9.2ct\\lab9.2ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab9\\lab9.2ct\\lab9.2ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0B1D9AD-D30A-4ECB-9E8A-F68FF9555FE4}|lab9.2ct\\lab9.2ct.vcxproj|solutionrelative:lab9.2ct\\lab9.2ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6294A3-959D-4C98-900E-ABD8687794E6}|lab9.1ct\\lab9.1ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab9\\lab9.1ct\\lab9.1ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F6294A3-959D-4C98-900E-ABD8687794E6}|lab9.1ct\\lab9.1ct.vcxproj|solutionrelative:lab9.1ct\\lab9.1ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab9.2ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab9\\lab9.2ct\\lab9.2ct.cpp",
+              "RelativeDocumentMoniker": "lab9.2ct\\lab9.2ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab9\\lab9.2ct\\lab9.2ct.cpp",
+              "RelativeToolTip": "lab9.2ct\\lab9.2ct.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T17:12:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab9.1ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab9\\lab9.1ct\\lab9.1ct.cpp",
+              "RelativeDocumentMoniker": "lab9.1ct\\lab9.1ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab9\\lab9.1ct\\lab9.1ct.cpp",
+              "RelativeToolTip": "lab9.1ct\\lab9.1ct.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T13:28:25.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

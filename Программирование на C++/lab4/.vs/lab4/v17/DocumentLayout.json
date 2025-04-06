@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krylo\\source\\repos\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C03DFC-5221-4F2E-B577-4D32740FCD8A}|lab4.1ct\\lab4.1ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab4\\lab4.1ct\\lab4.1ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3C03DFC-5221-4F2E-B577-4D32740FCD8A}|lab4.1ct\\lab4.1ct.vcxproj|solutionrelative:lab4.1ct\\lab4.1ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7FF47-11B1-46D6-9454-E91FB10578C2}|lab4.2ct\\lab4.2ct.vcxproj|C:\\Users\\krylo\\source\\repos\\lab4\\lab4.2ct\\lab4.2ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18C7FF47-11B1-46D6-9454-E91FB10578C2}|lab4.2ct\\lab4.2ct.vcxproj|solutionrelative:lab4.2ct\\lab4.2ct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0DF8D-9922-420D-8684-239B1C8A9877}|lab4.2pr\\lab4.2pr.vcxproj|C:\\Users\\krylo\\source\\repos\\lab4\\lab4.2pr\\lab4.2pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD0DF8D-9922-420D-8684-239B1C8A9877}|lab4.2pr\\lab4.2pr.vcxproj|solutionrelative:lab4.2pr\\lab4.2pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42EA7D0-DB04-42C7-878A-319DC1905643}|lab4.1pr\\lab4.1pr.vcxproj|C:\\Users\\krylo\\source\\repos\\lab4\\lab4.1pr\\lab4.1pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D42EA7D0-DB04-42C7-878A-319DC1905643}|lab4.1pr\\lab4.1pr.vcxproj|solutionrelative:lab4.1pr\\lab4.1pr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab4.2ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.2ct\\lab4.2ct.cpp",
+              "RelativeDocumentMoniker": "lab4.2ct\\lab4.2ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.2ct\\lab4.2ct.cpp",
+              "RelativeToolTip": "lab4.2ct\\lab4.2ct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T13:54:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.1ct.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.1ct\\lab4.1ct.cpp",
+              "RelativeDocumentMoniker": "lab4.1ct\\lab4.1ct.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.1ct\\lab4.1ct.cpp",
+              "RelativeToolTip": "lab4.1ct\\lab4.1ct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T17:25:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab4.2pr.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.2pr\\lab4.2pr.cpp",
+              "RelativeDocumentMoniker": "lab4.2pr\\lab4.2pr.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.2pr\\lab4.2pr.cpp",
+              "RelativeToolTip": "lab4.2pr\\lab4.2pr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T17:12:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab4.1pr.cpp",
+              "DocumentMoniker": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.1pr\\lab4.1pr.cpp",
+              "RelativeDocumentMoniker": "lab4.1pr\\lab4.1pr.cpp",
+              "ToolTip": "C:\\Users\\krylo\\source\\repos\\lab4\\lab4.1pr\\lab4.1pr.cpp",
+              "RelativeToolTip": "lab4.1pr\\lab4.1pr.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T16:54:48.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

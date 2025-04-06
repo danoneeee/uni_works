@@ -1,0 +1,11 @@
+ПР1_Крылов_Дан_МЕВД:
+https://colab.research.google.com/drive/1HmO-BHoQi0uLrFlh4igwqZ8rGJa5qw28?authuser=1
+
+ПР2_Крылов_Дан_МЕВД:
+https://colab.research.google.com/drive/1WoFBfYhgIJkpFVNxPybjiYMhlmSDzGAk?authuser=1
+
+ЛАБ0_Крылов_Дан_РУАД:
+https://colab.research.google.com/drive/1CFWgHyxvkgZOnglXpIVAlkqps5bL20h3?authuser=1
+
+ЛАБ1_Крылов_Дан_РУАД
+https://colab.research.google.com/drive/1VB6cONY7csTk7tWOzHcERfNociowRTe-?authuser=1
